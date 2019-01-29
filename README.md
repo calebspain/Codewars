@@ -1,2 +1,2 @@
 # Codewars
-Solved Algorithms From Codewars.com
+Algorithm Solutions From Codewars.com
