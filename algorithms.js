@@ -1,4 +1,5 @@
 function money_value(s) {
+    /* Remove dollar sign */
     result = s.match(/[^$ ]/g);
     if (result) {
         if (result.indexOf('.' + 2) === -1) {
