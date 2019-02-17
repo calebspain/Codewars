@@ -10,7 +10,7 @@
 
 String.prototype.camelCase = function() {
 
-  // split string into array
+  // split string into array of words
   return String(this).split(' ')
   
   // map through array and capitalize first letter of each word
