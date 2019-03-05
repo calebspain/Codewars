@@ -1,4 +1,3 @@
-
 // Find The Length Of The Shortest Word
 
 let str = 'Ripple ProofOfStake Dogecoin Steem ProofOfStake ProofOfWork Steem ProofOfStake Monero Dash LiteCoin Mine Ripple Mine Waves';
